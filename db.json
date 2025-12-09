@@ -1,11 +1,4 @@
 {
-  "albums": [
-    {
-      "userId": 4,
-      "id": 32,
-      "title": "reiciendis dolores a ut qui debitis non quo labore"
-    }
-  ],
   "photos": [
     {
       "albumId": 32,
